@@ -1,3 +1,4 @@
+# Use the /pi command to show it.
 # public_inventory by cd2
 ## Original by cd2
 * https://content.minetest.net/packages/cd2/public_inventory/
