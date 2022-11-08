@@ -35,7 +35,8 @@ minetest.register_chatcommand("pi", {
 		minetest.show_formspec(name, "public_inventory:pi",
 				"size[16,11;]"..
 				"list[detached:pi;main;0,0;16,8;]"..
-				"list[current_player;main;0,9;16,2;]")
+				"list[current_player;main;0,9;16,2;]" ..
+				"listring[]")
 		return true, ""
 	end,
 })
