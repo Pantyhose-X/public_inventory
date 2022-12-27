@@ -1,3 +1,9 @@
+# :warning: *Deprecation notice* :warning:
+
+This project is now being replaced by the `pubinv` project here: https://github.com/activivan/mt-pubinv
+
+It only serves as a public archive at this point
+
 # Use the /pi command to show it.
 # public_inventory by cd2
 ## Original by cd2
